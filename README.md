@@ -1,4 +1,4 @@
 # hello-world
 First GitHub project
 
-Soon, the Orokin will fall.
+Soon, the Tenno will fall.
